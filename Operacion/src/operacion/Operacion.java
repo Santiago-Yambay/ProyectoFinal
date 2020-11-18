@@ -5,6 +5,7 @@
  */
 package operacion;
 
+
 /**
  *
  * @author DELL
@@ -18,7 +19,12 @@ public class Operacion {
         // TODO code application logic here
     }
     
+//<<<<<<< HEAD
     public void suma() {
+//=======
+    public void resta(){
+//>>>>>>> origin/feature2
         
     }
 }
+
