@@ -18,4 +18,7 @@ public class Operacion {
         // TODO code application logic here
     }
     
+    public void resta(){
+        
+    }
 }
